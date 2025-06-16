@@ -49,13 +49,42 @@
 
 3. resumo dos dados
     
-    a.i tabela de frequencia - o quanto aquilo representa e o quanto tem
+    a.i apenas tabela de frequencia - o quanto aquilo representa e o quanto tem
     
-    a.ii tabela de frequencia, tabela de frequencia acumulada
+    a.ii tabela de frequencia OU:
 
-    a. graficos de setores (pizza), barras ou colunas
+    - tabela de frequencia acumulada - vai somando o percentual com o percentual do anterior
+        - faz sentido pois a `qualitativa ordinal` pressupões uma ordem correta, então não vai bagunçar os dados
 
-    b.
+    a. os melhores graficos são de setores (pizza), barras ou colunas - podemos usar gráficos mistos também
+
+    b.i pode usar tabela de frequencia, mas tem outras tecnicas melhores, para a tabela não ficar gigante
+
+    - medidas resumo:
+        - media
+        - mediana - ordena do menor pro maior, entende qual o meio deles.
+        - moda
+        - desvio padrão - não faz muito sentido sozinho
+            - intervalo no qual está inserido um valor da media ou da mediana
+        - variância
+        - quartil - vem da mediana, mas em quatro partes
+            - Q1 - os primeiros 25%
+            - Q2 - os primeiros 50%
+            - Q3 - os primeiros 75%
+        - minimo
+        - máximo - é o "quartil" Q4, ou seja, 100% da nossa base
+        - assimetria
+            - função distorção no excel
+            - descreve a simetria do conjunto de dados em relação à media deles
+            - "Uma distorção positiva indica uma cauda mais longa à direita da média, enquanto uma distorção negativa indica uma cauda mais longa à esquerda."
+        - curtose
+
+    b. os melhores graficos são Histograma e Box-plot
+        - Histograma apesenta o intervalo dos dados(parece um grafico de barras)
+
+## Análise Bivariada
+
+- mais de uma variável, relaciona as duas
 
 ## Estudo de caso
 
